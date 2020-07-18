@@ -133,7 +133,7 @@ const ColorList = ({ colors, updateColors }) => {
         }}
         />
 
-        <label htmlFor="hex">Hex No.</label>
+        <label htmlFor="hex">Hex Code</label>
         <input 
           type="text"
           name="hex"
